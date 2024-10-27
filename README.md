@@ -6,6 +6,7 @@ Telegram Account Creator is a powerful, automated tool for creating Telegram acc
 
 - **Telegram Account Creation**: Create Telegram accounts quickly and efficiently.
 - **Proxy Support**: Add proxy settings to keep your accounts secure and bypass any regional restrictions.
+- **Auto Set All**: Auto Set Bio,Name,Username,Photo,2FA and lock country.
 - **SMS Service Integration**: Seamlessly connect with popular SMS verification services, including:
   - SMShub
   - Tiger-sms
@@ -14,7 +15,7 @@ Telegram Account Creator is a powerful, automated tool for creating Telegram acc
 
 ## Pricing
 
-This tool is available at a competitive rate of **$75 per month**, offering reliable automation and support for high-volume Telegram account creation needs.
+This tool is available at a competitive rate of **$75/month**, offering reliable automation and support for high-volume Telegram account creation needs.
 
 ## Getting Started
 
@@ -33,6 +34,14 @@ This tool is available at a competitive rate of **$75 per month**, offering reli
 
 
 For detailed setup instructions, refer to the documentation included in this repository.
+
+## SCREENSHOOT
+
+![image](https://github.com/user-attachments/assets/921bc12a-60c3-426b-98ee-684663f56c91)
+![image](https://github.com/user-attachments/assets/99dc3439-c988-4c9e-a10c-3aed1e450e8c)
+![image](https://github.com/user-attachments/assets/24e63c88-775a-4bd9-819f-5a34d0b6cf41)
+
+
 
 ## Support
 
